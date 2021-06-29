@@ -35,6 +35,13 @@ make task7
 ./task7 tests/network-1.txt < tests/outage-1.txt
 ```
 
+Given a network configuration:
+
+  * Task 2 computes the total number of connected subnetworks before the outage for the network
+  * Task 3 finds the largest subnetwork before the power outage
+  * Task 4 computes the largest diameter (longest shortest path between any pair of two vertices) in any of the subnetworks after the power outage 
+  * Task 7 finds all critical servers for the network (using dynamic programming)
+
 There are 4 example networks, named ```network-(1/2/3/4).txt```
 
 There are 4 example outages, named ```outage-(1/2/3/4).txt```
