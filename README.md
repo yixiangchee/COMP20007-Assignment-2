@@ -35,11 +35,14 @@ make task7
 ./task7 tests/network-1.txt < tests/outage-1.txt
 ```
 
-There are 4 example networks, named network-(1/2/3/4).txt  
-There are 4 example outages, named outage-(1/2/3/4).txt 
-Example outputs are in t(2/3/4/7)-out-(1/2/3/4).txt 
+There are 4 example networks, named ```network-(1/2/3/4).txt```
+
+There are 4 example outages, named ```outage-(1/2/3/4).txt```
+
+Example outputs are in ```t(2/3/4/7)-out-(1/2/3/4).txt```
 
 all available [here](/a2-skeleton/tests). 
+
 
 Visual representation of the network configurations are in the appendix of [the specification](/assignment2.pdf) (p.g. 11).
 
