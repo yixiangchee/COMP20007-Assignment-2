@@ -1,6 +1,6 @@
 # COMP20007-Assignment-2
 
-Design of Algorithms Assignemnt on __Dynamic Programming__ and __Graph Algorithms__.
+Design of Algorithms Assignment on __Dynamic Programming__ and __Graph Algorithms__.
 
 This assignment tackles the _Critical Node Detection Problem_ in networks.
 
@@ -9,14 +9,16 @@ Some Algorithms Used:
   * Floyd's Algorithm
 
 Marks: 19/20
+
 (Coding Portion: 8/8)
+
+___
 
 [Specification](/assignment2.pdf) 
 
 [Report](/Report.pdf)
 
 [Code](/a2-code/)
-
 
 To run the programs you must first compile with make followed by one of task2, task3, task4 or task7. 
 For all tasks, you should give the network file as an argument and can send in the outage information via standard input redirection.
