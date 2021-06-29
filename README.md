@@ -16,7 +16,7 @@ Marks: 19/20
 
 [Report](/Report.pdf)
 
-[Code](/a2-skeleton/)
+[Code](/a2-skeleton)
 
 ___
 
