@@ -2,7 +2,7 @@
 
 Design of Algorithms Assignment on __Dynamic Programming__ and __Graph Algorithms__.
 
-This assignment tackles the _Critical Node Detection Problem_ in networks.
+This assignment tackles the __*Critical Node Detection Problem*__ in networks.
 
 Some Algorithms Used:
   * Depth-First Search
