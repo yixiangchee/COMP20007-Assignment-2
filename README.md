@@ -20,7 +20,7 @@ Marks: 19/20
 
 ___
 
-To run the programs you must first compile with make followed by one of task2, task3, task4 or task7. 
+To run the programs you must first compile with ```make``` followed by one of task2, task3, task4 or task7. 
 For all tasks, you should give the network file as an argument and can send in the outage information via standard input redirection.
 
 For example:
