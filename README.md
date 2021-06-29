@@ -20,6 +20,19 @@ Marks: 19/20
 
 ___
 
+**What the code does:**
+
+Given a network configuration:
+
+  * Task 2 computes the total number of connected subnetworks before the outage for the network
+  * Task 3 finds the largest subnetwork before the power outage
+  * Task 4 computes the largest diameter (longest shortest path between any pair of two vertices) in any of the subnetworks after the power outage 
+  * Task 7 finds all critical servers for the network (using dynamic programming)
+
+___
+
+**How to run it:**
+
 To run the programs (command line) you must first compile with ```make``` followed by one of task2, task3, task4 or task7. 
 For all tasks, you should give the network file as an argument and can send in the outage information via standard input redirection.
 
@@ -35,13 +48,6 @@ make task7
 ./task7 tests/network-1.txt < tests/outage-1.txt
 ```
 
-Given a network configuration:
-
-  * Task 2 computes the total number of connected subnetworks before the outage for the network
-  * Task 3 finds the largest subnetwork before the power outage
-  * Task 4 computes the largest diameter (longest shortest path between any pair of two vertices) in any of the subnetworks after the power outage 
-  * Task 7 finds all critical servers for the network (using dynamic programming)
-
 There are 4 example networks, named ```network-(1/2/3/4).txt```
 
 There are 4 example outages, named ```outage-(1/2/3/4).txt```
@@ -50,6 +56,4 @@ Example outputs are in ```t(2/3/4/7)-out-(1/2/3/4).txt```
 
 all available [here](/a2-skeleton/tests). 
 
-
 Visual representation of the network configurations are in the appendix of [the specification](/assignment2.pdf) (p.g. 11).
-
